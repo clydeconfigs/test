@@ -1,5 +1,5 @@
 # lol
-[video.mp4]()
+<video src='video.mp4' width=480/>
 [a.webp]()
 [a.webm]()
 
