@@ -4,7 +4,8 @@
 
 add a new entry:
 
-```$ keys add
+```
+$ keys add
 open database found
 type the new title: gmail
 type the new username [press enter for random]: john@gmail.com
@@ -21,8 +22,10 @@ get a list of all your entries, including login names:
 
 copy to clipboard an entry including the word "gmail":
 
-```$ keys copy gmail
-gmail/john@gmail.com copied, clearing clipboard in 20```
+```
+$ keys copy gmail
+gmail/john@gmail.com copied, clearing clipboard in 20
+```
 
 ## tips and tricks
 
