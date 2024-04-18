@@ -18,7 +18,10 @@ doing changes to the database... important: do not delete or change any temporar
 
 get a list of all your entries, including login names:
 
-```$ keys list -l```
+```
+$ keys list -l
+1. gmail/john@gmail.com
+```
 
 copy to clipboard an entry including the word "gmail":
 
