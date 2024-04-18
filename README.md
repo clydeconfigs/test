@@ -6,13 +6,11 @@ add a new entry:
 
 ```
 $ keys add
-open database found
 type the new title: gmail
 type the new username [press enter for random]: john@gmail.com
 type the new password [press for random]:
 type the new TOTP key:
 type a note:
-open database found
 doing changes to the database... important: do not delete or change any temporary files now
 ```
 
