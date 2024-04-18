@@ -1,10 +1,11 @@
-# lol
-<video src='video.mp4' width=480/></video>
-[a.webp]()
-[a.webm]()
+# examples
 
-[a.gif]()
-[a.gif](asdasdasd)
-![a.gif](asdasdasd)
+## example usage
 
-![a.gif]()
+[video](keys_example.mp4)
+
+## tips and tricks
+
+display all your entries in a fancy way:
+
+```keys list -lt | sed 1d | column -t```
