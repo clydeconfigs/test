@@ -1,7 +1,6 @@
 # keys, password manager 
 
-![](keys.png)
-![](https://raw.githubusercontent.com/clydeconfigs/test/main/keys.png)
+![](keys.png){height=200}
 
 ## example usage
 
