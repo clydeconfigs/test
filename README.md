@@ -1,6 +1,6 @@
 # keys, password manager 
 
-![](keys.png){height=200}
+![](keys.png)
 
 ## example usage
 
